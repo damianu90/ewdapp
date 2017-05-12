@@ -9,9 +9,9 @@
 *.ear
 
 
-.nbproject/
+nbproject/
 build/
 nbbuild/
 dist/
 nbdist/
-.nb-gradle/
+nb-gradle/
